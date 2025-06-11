@@ -34,6 +34,12 @@ The system allows users to upload images of fashion items (e.g., shirts, dresses
 
 ## 🧪 Dataset
 
+The dataset used in this project can be downloaded from the link below:
+
+➡️ [Download Images_Dataset](https://drive.google.com/file/d/1QXe-x_RQ5NXvRmVn2u23XOVhh-0mgh6i/view?usp=sharing).
+
+Please note: The dataset is hosted on Google Drive due to size limits on GitHub.
+
 - **Size**: 44,441 images
 - **Categories**: Dresses, shirts, pants, accessories
 - **Split**: 70% training, 15% validation, 15% testing
